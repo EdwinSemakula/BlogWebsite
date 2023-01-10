@@ -1,1 +1,1 @@
-# BlogWebsite
+A website for people to publish their blogs
